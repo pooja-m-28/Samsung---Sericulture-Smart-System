@@ -82,6 +82,9 @@ Student IoT projects
  Author
 
 Pooja M
+
 Computer Science Engineering Student
+
 Samsung Innovation Campus
+
 Cambridge Institute of Technology North Campus
